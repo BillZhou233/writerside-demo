@@ -1,0 +1,15 @@
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+        <color-preset>vivid</color-preset>
+        <primary-color>aqua</primary-color>
+    </variables>
+    <build-profile instance="hi" >
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <footer>
+        <copyright>2023 BillZhou233 a.k.a. angelkw1</copyright>
+    </footer>
+</buildprofiles>
